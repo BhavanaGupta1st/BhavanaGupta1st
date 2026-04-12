@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻 I'm Bhavana Gupta, a passionate developer exploring new ideas & expanding my skills through projects and SWE fellowship.
 
-🎓 Currently studying Data Science at IIT Madras, and Computer Science at SAU .
+🎓 Currently studying Data Science at IIT Madras.
 
 🌱 Continuously learning and growing in the fields of AI/ML, Python, Generative AI, FinTech, and Web development.
 
